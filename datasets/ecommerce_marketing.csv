@@ -1,0 +1,150 @@
+RecordID,Name,Gender,Age,Location,Email,Phone,Product,Category,Amount
+1001,John Smith,Male,32,New York,johnsmith@example.com,555-1234-5678,Shoes,,89.99
+1002,Sarah Johnson,Female,28,Los Angeles,sarahjohnson@example.com,555-9876-5432,T-Shirt,Apparel,19.99
+1003,Michael Brown,Male,45,,michaelbrown@example.com,555-2345-6789,Watch,Accessories,199.99
+1004,Emily Davis,Female,35,San Francisco,emilydavis@example.com,555-8765-4321,,Accessories,59.99
+1005,David Wilson,Male,39,Miami,davidwilson@example.com,555-3456-7890,,Electronics,149.99
+1006,Jessica Anderson,Female,24,Dallas,jessicaanderson@example.com,555-7654-3210,Backpack,,49.99
+1007,Matthew Martinez,Male,41,,matthewmartinez@example.com,555-4567-8901,Perfume,Beauty,79.99
+1008,Amanda Taylor,Female,33,Seattle,amandataylor@example.com,555-6543-2109,Hat,Accessories,29.99
+1009,Andrew Hernandez,Male,29,Boston,andrewhernandez@example.com,555-5678-9012,Jacket,,119.99
+1010,Sophia Martin,Female,27,Austin,sophiamartin@example.com,555-7890-1234,Smartphone,Electronics,699.99
+1011,Christopher Garcia,Male,37,Phoenix,christophergarcia@example.com,555-8765-4321,,Apparel,59.99
+1012,,Female,31,Denver,oliviathompson@example.com,555-5432-1098,Necklace,Jewelry,149.99
+1013,Daniel Johnson,Male,26,Philadelphia,danieljohnson@example.com,555-2109-8765,Guitar,Musical Instruments,299.99
+1014,Elizabeth Davis,Female,29,San Diego,elizabethdavis@example.com,555-6789-5432,Handbag,Bags,99.99
+1015,Joseph Wilson,Male,33,Portland,josephwilson@example.com,555-4321-0987,,Electronics,249.99
+1016,Abigail Anderson,Female,26,,abigailanderson@example.com,555-1098-7654,Skirt,Apparel,39.99
+1017,David Smith,Male,40,Detroit,davidsmith@example.com,555-0987-6543,Perfume,Beauty,79.99
+1018,Samantha Hernandez,Female,34,Minneapolis,samanthahernandez@example.com,555-3210-9876,Sneakers,Footwear,99.99
+1019,,Male,30,Cleveland,williamtaylor@example.com,555-6543-2109,Speaker,Electronics,79.99
+1020,Victoria Garcia,Female,25,Pittsburgh,victoriagarcia@example.com,555-9876-5432,Dress,Apparel,69.99
+1021,Andrew Wilson,Male,29,Orlando,andrewwilson@example.com,555-5432-1098,Backpack,Bags,49.99
+1022,Emily Brown,Female,27,Tampa,emilybrown@example.com,555-2109-8765,Bracelet,Jewelry,79.99
+1023,Matthew Davis,Male,36,San Antonio,matthewdavis@example.com,555-8765-4321,Headphones,Electronics,149.99
+1024,Emma Martin,Female,30,Jacksonville,emmamartin@example.com,555-5432-1098,Sunglasses,Accessories,59.99
+1025,Christopher Thompson,Male,31,Kansas City,christopherthompson@example.com,555-1098-7654,Perfume,Beauty,79.99
+1026,Olivia Hernandez,Female,28,Charlotte,oliviahernandez@example.com,555-4321-0987,T-Shirt,Apparel,19.99
+1027,James Johnson,Male,39,Indianapolis,jamesjohnson@example.com,555-0987-6543,Watch,Accessories,199.99
+1028,Sophia Davis,Female,33,Denver,sophiadavis@example.com,555-7654-3210,Smartphone,Electronics,699.99
+1029,Alexander Wilson,Male,27,Austin,alexanderwilson@example.com,555-5432-1098,Hat,Accessories,29.99
+1030,Isabella Anderson,Female,29,Seattle,isabellaanderson@example.com,555-3210-9876,Shoes,Footwear,89.99
+1031,Joseph Hernandez,Male,36,Boston,josephhernandez@example.com,555-1098-7654,Backpack,Bags,49.99
+1032,Mia Taylor,Female,32,Phoenix,miataylor@example.com,555-9876-5432,Pants,Apparel,59.99
+1033,Ethan Garcia,Male,28,Portland,ethangarcia@example.com,555-4321-0987,Necklace,Jewelry,149.99
+1034,Emily Wilson,Female,30,Philadelphia,emilywilson@example.com,555-7654-3210,Keyboard,Musical Instruments,99.99
+1035,Ava Smith,Female,25,Los Angeles,avasmith@example.com,555-2109-8765,Handbag,Bags,99.99
+1036,Noah Johnson,Male,33,Miami,noahjohnson@example.com,555-5432-1098,Smartwatch,Electronics,249.99
+1037,Olivia Davis,Female,27,Chicago,oliviadavis@example.com,555-0987-6543,Skirt,Apparel,39.99
+1038,Liam Hernandez,Male,31,New York,liamhernandez@example.com,,Perfume,Beauty,79.99
+1039,Emma Johnson,Female,28,San Francisco,emmajohnson@example.com,555-3210-9876,Sneakers,Footwear,99.99
+1040,William Brown,Male,34,Dallas,williambrown@example.com,555-4321-0987,Speaker,Electronics,79.99
+1041,Olivia Martin,Female,29,Houston,oliviamartin@example.com,555-7654-3210,Dress,Apparel,69.99
+1042,Aiden Taylor,Male,37,Seattle,aidentaylor@example.com,555-5432-1098,Backpack,Bags,49.99
+1043,Emma Hernandez,Female,26,Denver,emmahernandez@example.com,555-2109-8765,Bracelet,Jewelry,79.99
+1044,Liam Davis,Male,32,,liamdavis@example.com,555-9876-5432,Headphones,Electronics,149.99
+1045,Sophia Johnson,Female,28,Portland,sophiajohnson@example.com,555-4321-0987,Sunglasses,Accessories,59.99
+1046,Mason Wilson,Male,38,Miami,masonwilson@example.com,555-1098-7654,Perfume,Beauty,79.99
+1047,Ava Davis,Female,27,Dallas,avadavis@example.com,555-5432-1098,T-Shirt,Apparel,19.99
+1048,William Anderson,Male,40,Chicago,williamanderson@example.com,555-8765-4321,Watch,Accessories,199.99
+1049,Emma Smith,Female,32,New York,emmasmith@example.com,555-3210-9876,Smartphone,Electronics,699.99
+1050,Liam Thompson,Male,28,Seattle,liamthompson@example.com,555-5432-1098,Hat,Accessories,29.99
+1051,Sophia Hernandez,Female,30,Los Angeles,sophiahernandez@example.com,555-0987-6543,Shoes,Footwear,89.99
+1052,Oliver Johnson,Male,35,Boston,oliverjohnson@example.com,555-7654-3210,Backpack,Bags,49.99
+1053,Charlotte Davis,Female,29,Phoenix,charlottedavis@example.com,555-5432-1098,Pants,Apparel,59.99
+1054,Ethan Wilson,Male,27,San Francisco,ethanwilson@example.com,555-2109-8765,Necklace,Jewelry,149.99
+1055,Emily Smith,Female,30,Philadelphia,emilysmith@example.com,555-5432-1098,Drums,Musical Instruments,299.99
+1056,Aiden Hernandez,Male,33,Miami,aidenhernandez@example.com,555-0987-6543,Handbag,Bags,99.99
+1057,Charlotte Brown,Female,27,Portland,charlottebrown@example.com,555-7654-3210,Smartwatch,Electronics,249.99
+1058,Elijah Davis,Male,32,Houston,elijahdavis@example.com,555-8765-4321,Skirt,Apparel,39.99
+1059,Mia Thompson,Female,26,Denver,miathompson@example.com,555-5432-1098,Perfume,Beauty,79.99
+1060,Olivia Johnson,Female,31,Chicago,oliviajohnson@example.com,555-3210-9876,Sneakers,Footwear,99.99
+1061,Liam Wilson,Male,34,San Diego,liamwilson@example.com,555-1098-7654,Speaker,Electronics,79.99
+1062,Sophia Martin,Female,30,Los Angeles,sophiamartin@example.com,555-5432-1098,Dress,Apparel,69.99
+1063,Mason Hernandez,Male,38,Seattle,masonhernandez@example.com,555-2109-8765,Backpack,Bags,49.99
+1064,Charlotte Johnson,Female,29,Miami,charlottejohnson@example.com,555-0987-6543,Bracelet,Jewelry,79.99
+1065,Oliver Davis,Male,31,Chicago,oliverdavis@example.com,555-7654-3210,Headphones,Electronics,149.99
+1066,Emma Wilson,Female,28,San Francisco,emmawilson@example.com,555-8765-4321,Sunglasses,Accessories,59.99
+1067,Liam Smith,Male,34,Portland,liamsmith@example.com,555-5432-1098,Perfume,Beauty,79.99
+1068,Olivia Thompson,Female,30,Philadelphia,oliviathompson@example.com,555-3210-9876,T-Shirt,Apparel,19.99
+1069,Ethan Johnson,Male,38,Los Angeles,ethanjohnson@example.com,555-1098-7654,Watch,Accessories,199.99
+1070,Emily Davis,Female,27,San Diego,emilydavis@example.com,555-5432-1098,Smartphone,Electronics,699.99
+1071,Mia Brown,Female,29,Miami,miabrown@example.com,555-7654-3210,Hat,Accessories,29.99
+1072,William Hernandez,Male,31,New York,williamhernandez@example.com,555-2109-8765,Shoes,Footwear,89.99
+1073,Charlotte Wilson,Female,30,Seattle,charlottewilson@example.com,555-0987-6543,Backpack,Bags,49.99
+1074,Oliver Johnson,Male,27,Chicago,oliverjohnson@example.com,555-5432-1098,Pants,Apparel,59.99
+1075,Emma Davis,Female,32,Houston,emmadavis@example.com,555-7654-3210,Necklace,Jewelry,149.99
+1076,Aiden Thompson,Male,33,San Francisco,aidenthompson@example.com,555-8765-4321,Keyboard,Musical Instruments,99.99
+1077,Sophia Hernandez,Female,28,Philadelphia,sophiahernandez@example.com,555-5432-1098,Handbag,Bags,99.99
+1078,Ethan Wilson,Male,36,Miami,ethanwilson@example.com,555-2109-8765,Smartwatch,Electronics,249.99
+1079,Olivia Smith,Female,30,Chicago,oliviasmith@example.com,555-0987-6543,Skirt,Apparel,39.99
+1080,Liam Davis,Male,27,New York,liamdavis@example.com,555-5432-1098,Perfume,Beauty,79.99
+1081,Emily Johnson,Female,33,Los Angeles,emilyjohnson@example.com,555-7654-3210,Sneakers,Footwear,99.99
+1082,Elijah Wilson,Male,29,Seattle,elijahwilson@example.com,555-8765-4321,Speaker,Electronics,79.99
+1083,Sophia Martin,Female,31,Portland,sophiamartin@example.com,555-5432-1098,Dress,Apparel,69.99
+1084,Charlotte Thompson,Female,27,Philadelphia,charlottethompson@example.com,555-2109-8765,Backpack,Bags,49.99
+1085,Emma Hernandez,Female,34,Miami,emmahernandez@example.com,555-1098-7654,Bracelet,Jewelry,79.99
+1086,Oliver Smith,Male,32,Chicago,oliversmith@example.com,555-5432-1098,Headphones,Electronics,149.99
+1087,Liam Wilson,Male,28,San Francisco,liamwilson@example.com,555-3210-9876,Sunglasses,Accessories,59.99
+1088,Charlotte Davis,Female,30,Philadelphia,charlottedavis@example.com,555-7654-3210,Perfume,Beauty,79.99
+1089,Aiden Johnson,Male,36,Miami,aidenjohnson@example.com,555-5432-1098,T-Shirt,Apparel,19.99
+1090,Sophia Brown,Female,28,New York,sophiabrown@example.com,555-8765-4321,Watch,Accessories,199.99
+1091,Ethan Thompson,Male,30,Los Angeles,ethanthompson@example.com,555-3210-9876,Smartphone,Electronics,699.99
+1092,Olivia Hernandez,Female,29,Seattle,oliviahernandez@example.com,555-7654-3210,Hat,Accessories,29.99
+1093,Elijah Smith,Male,32,Chicago,elijahsmith@example.com,555-5432-1098,Shoes,Footwear,89.99
+1094,Emily Davis,Female,27,Philadelphia,emilydavis@example.com,555-2109-8765,Backpack,Bags,49.99
+1095,Charlotte Johnson,Female,30,Miami,charlottejohnson@example.com,555-8765-4321,Pants,Apparel,59.99
+1096,Aiden Wilson,Male,33,San Francisco,aidenwilson@example.com,555-0987-6543,Necklace,Jewelry,149.99
+1097,Sophia Thompson,Female,28,Los Angeles,sophiathompson@example.com,555-5432-1098,Drums,Musical Instruments,299.99
+1098,Emma Smith,Female,27,Portland,emmasmith@example.com,555-7654-3210,Handbag,Bags,99.99
+1099,Ethan Johnson,Male,36,New York,ethanjohnson@example.com,555-8765-4321,,Electronics,249.99
+1100,Olivia Davis,Female,31,Seattle,oliviadavis@example.com,555-5432-1098,Skirt,Apparel,39.99
+1101,Charlotte Wilson,Female,29,Philadelphia,charlottewilson@example.com,555-1098-7654,Perfume,Beauty,79.99
+1102,Aiden Hernandez,Male,27,Miami,aidenhernandez@example.com,555-8765-4321,Sneakers,Footwear,99.99
+,Olivia Smith,Female,32,Chicago,oliviasmith@example.com,555-5432-1098,Speaker,Electronics,79.99
+1104,Liam Davis,Male,30,Philadelphia,liamdavis@example.com,555-2109-8765,Dress,Apparel,69.99
+1105,Sophia Johnson,Female,28,Miami,sophiajohnson@example.com,555-0987-6543,Backpack,Bags,49.99
+1106,Ethan Brown,Male,29,Seattle,ethanbrown@example.com,555-7654-3210,Bracelet,Jewelry,79.99
+1107,Elijah Thompson,Male,31,Chicago,elijahthompson@example.com,555-5432-1098,Headphones,Electronics,149.99
+1108,Charlotte Hernandez,Female,34,Philadelphia,charlottehernandez@example.com,555-3210-9876,Sunglasses,Accessories,59.99
+1109,Emma Smith,Female,28,Los Angeles,emmasmith@example.com,555-8765-4321,Perfume,Beauty,79.99
+1110,Olivia Johnson,Female,30,Miami,oliviajohnson@example.com,555-5432-1098,T-Shirt,Apparel,19.99
+1111,Aiden Davis,Male,29,San Francisco,aidendavis@example.com,555-1098-7654,Watch,Accessories,199.99
+1112,Charlotte Brown,Female,31,New York,charlottebrown@example.com,555-7654-3210,Smartphone,Electronics,699.99
+1113,Ethan Hernandez,Male,33,Seattle,ethanhernandez@example.com,555-5432-1098,Hat,Accessories,29.99
+1114,Olivia Wilson,Female,27,Philadelphia,oliviawilson@example.com,555-8765-4321,Shoes,Footwear,89.99
+1115,Elijah Smith,Male,32,San Diego,elijahsmith@example.com,555-5432-1098,Backpack,Bags,49.99
+1116,Emily Davis,Female,36,Portland,emilydavis@example.com,555-0987-6543,Pants,Apparel,59.99
+1117,Aiden Johnson,Male,30,Houston,aidenjohnson@example.com,555-7654-3210,Necklace,Jewelry,149.99
+1118,Charlotte Thompson,Female,27,San Francisco,charlottethompson@example.com,555-8765-4321,Drums,Musical Instruments,299.99
+1119,Sophia Wilson,Female,34,New York,sophiawilson@example.com,555-5432-1098,Handbag,Bags,99.99
+1120,Ethan Brown,Male,31,Seattle,ethanbrown@example.com,555-2109-8765,Smartwatch,Electronics,249.99
+1121,Liam Hernandez,Male,36,Miami,liamhernandez@example.com,555-0987-6543,Skirt,Apparel,39.99
+1122,Olivia Smith,Female,28,Chicago,oliviasmith@example.com,555-7654-3210,Perfume,Beauty,79.99
+1123,Elijah Davis,Male,30,Los Angeles,elijahdavis@example.com,555-5432-1098,Sneakers,Footwear,99.99
+1124,Emily Johnson,Female,33,New York,emilyjohnson@example.com,555-8765-4321,Speaker,Electronics,79.99
+1125,Sophia Brown,Female,27,Philadelphia,sophiabrown@example.com,555-0987-6543,Dress,Apparel,69.99
+1126,Aiden Hernandez,Male,32,San Francisco,aidenhernandez@example.com,555-5432-1098,Backpack,Bags,49.99
+1127,Charlotte Smith,Female,29,Portland,charlottesmith@example.com,555-8765-4321,Bracelet,Jewelry,79.99
+1128,Ethan Johnson,Male,34,Philadelphia,ethanjohnson@example.com,555-1098-7654,Headphones,Electronics,149.99
+1129,Olivia Wilson,Female,31,Los Angeles,oliviawilson@example.com,555-5432-1098,Sunglasses,Accessories,59.99
+1130,Elijah Thompson,Male,28,San Diego,elijahthompson@example.com,555-8765-4321,Perfume,Beauty,79.99
+1131,Emily Brown,Female,27,Miami,emilybrown@example.com,555-0987-6543,T-Shirt,Apparel,19.99
+1132,Charlotte Johnson,Female,30,Houston,charlottejohnson@example.com,555-7654-3210,Watch,Accessories,199.99
+1133,Aiden Davis,Male,33,Philadelphia,aidendavis@example.com,555-5432-1098,Smartphone,Electronics,699.99
+1134,Olivia Hernandez,Female,28,San Diego,oliviahernandez@example.com,555-2109-8765,Hat,Accessories,29.99
+1135,Elijah Smith,Male,36,New York,elijahsmith@example.com,555-0987-6543,Shoes,Footwear,89.99
+1136,Emma Wilson,Female,31,Miami,emmawilson@example.com,555-5432-1098,Backpack,Bags,49.99
+1137,Ethan Davis,Male,29,Chicago,ethandavis@example.com,555-7654-3210,Pants,Apparel,59.99
+1138,Sophia Johnson,Female,30,Philadelphia,sophiajohnson@example.com,555-2109-8765,Necklace,Jewelry,149.99
+1139,Charlotte Thompson,Female,27,Miami,charlottethompson@example.com,555-8765-4321,Drums,Musical Instruments,299.99
+1140,Olivia Smith,Female,32,Los Angeles,oliviasmith@example.com,555-5432-1098,Handbag,Bags,99.99
+1141,Ethan Wilson,Male,33,Portland,ethanwilson@example.com,555-7654-3210,Smartwatch,Electronics,249.99
+1142,Charlotte Johnson,Female,29,Miami,charlottejohnson@example.com,555-0987-6543,Skirt,Apparel,39.99
+1143,Emma Hernandez,Female,27,Seattle,emmahernandez@example.com,555-8765-4321,Perfume,Beauty,79.99
+1144,Elijah Brown,Male,31,Philadelphia,elijahbrown@example.com,555-5432-1098,Sneakers,Footwear,99.99
+1145,Emily Davis,Female,34,New York,emilydavis@example.com,555-8765-4321,Speaker,Electronics,79.99
+1146,Aiden Wilson,Male,30,Los Angeles,aidenwilson@example.com,555-5432-1098,Dress,Apparel,69.99
+1147,Olivia Thompson,Female,28,Chicago,oliviathompson@example.com,555-7654-3210,Backpack,Bags,49.99
+1148,Sophia Brown,Female,27,San Diego,sophiabrown@example.com,555-5432-1098,Bracelet,Jewelry,79.99
+1149,Liam Smith,Male,32,Miami,liamsmith@example.com,555-8765-4321,Headphones,Electronics,149.99

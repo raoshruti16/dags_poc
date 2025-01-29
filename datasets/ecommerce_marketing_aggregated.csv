@@ -1,0 +1,40 @@
+Gender,Product,Category,Amount
+Male,Smartphone,Electronics,699.99
+Female,Smartphone,Electronics,699.99
+Female,Drums,Musical Instruments,299.99
+Male,Guitar,Musical Instruments,299.99
+Male,Smartwatch,Electronics,249.99
+Female,Smartwatch,Electronics,249.99
+Male,Watch,Accessories,199.99
+Female,Watch,Accessories,199.99
+Female,Necklace,Jewelry,149.99
+Male,Necklace,Jewelry,149.99
+Male,Headphones,Electronics,149.99
+Male,Sneakers,Footwear,99.99
+Male,Handbag,Bags,99.99
+Female,Keyboard,Musical Instruments,99.99
+Male,Keyboard,Musical Instruments,99.99
+Female,Handbag,Bags,99.99
+Female,Sneakers,Footwear,99.99
+Male,Shoes,Footwear,89.99
+Female,Shoes,Footwear,89.99
+Female,Bracelet,Jewelry,79.99
+Male,Bracelet,Jewelry,79.99
+Male,Speaker,Electronics,79.99
+Female,Perfume,Beauty,79.99
+Male,Perfume,Beauty,79.99
+Female,Speaker,Electronics,79.99
+Male,Dress,Apparel,69.99
+Female,Dress,Apparel,69.99
+Female,Pants,Apparel,59.99
+Male,Sunglasses,Accessories,59.99
+Male,Pants,Apparel,59.99
+Female,Sunglasses,Accessories,59.989999999999995
+Female,Backpack,Bags,49.99
+Male,Backpack,Bags,49.99
+Male,Skirt,Apparel,39.99
+Female,Skirt,Apparel,39.99
+Male,Hat,Accessories,29.99
+Female,Hat,Accessories,29.99
+Female,T-Shirt,Apparel,19.99
+Male,T-Shirt,Apparel,19.99
