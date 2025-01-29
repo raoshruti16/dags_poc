@@ -1,0 +1,66 @@
+Instructions for connecting sqlite:
+
+(.venv-apache) shrutirao@shrutir-ltmrhch dags_poc % ~/airflow
+zsh: permission denied: /Users/shrutirao/airflow
+(.venv-apache) shrutirao@shrutir-ltmrhch dags_poc %   
+(.venv-apache) shrutirao@shrutir-ltmrhch dags_poc % cd
+(.venv-apache) shrutirao@shrutir-ltmrhch ~ % ls
+AWSCLIV2.pkg                            Library                                 airflow_venv                            dags_poc                                logs                                    puppet                                  strata
+CODEOWNERS                              Movies                                  bin                                     fit-test-twister-configmaps             mycert                                  python_feedback_app                     suricata-v2
+CS-SOR                                  Music                                   cacertificates                          get-pip.py                              mycerts                                 sessionmanager-bundle                   suricata.orig
+Day1.ipynb                              Pictures                                cnfile                                  keys                                    olympics.csv                            sessionmanager-bundle.zip               tentacle-fit-tests
+Day2.ipynb                              Postman                                 cnfile.20241204-021113.generated        latest-version                          output.txt                              sfdc-bazel                              terraform
+Desktop                                 Public                                  code                                    local-dir                               path                                    sfdc_metadata
+Documents                               README.md                               cspm-dags                               local-sync                              perl5                                   sonar-project.properties
+Downloads                               airflow                                 csrs                                    log                                     postgresql_17.app.zip                   stems-puppet
+(.venv-apache) shrutirao@shrutir-ltmrhch ~ % cd airflow
+(.venv-apache) shrutirao@shrutir-ltmrhch airflow % ls
+airflow.cfg                     airflow.db                      logs                            standalone_admin_password.txt   webserver_config.py
+(.venv-apache) shrutirao@shrutir-ltmrhch airflow % mkdir database
+(.venv-apache) shrutirao@shrutir-ltmrhch airflow % cd database
+(.venv-apache) shrutirao@shrutir-ltmrhch database % touch my_sqlite.db
+(.venv-apache) shrutirao@shrutir-ltmrhch database % sqlite3 my_sqlite.db
+SQLite version 3.43.2 2023-10-10 13:08:14
+Enter ".help" for usage hints.
+sqlite> .databases
+main: /Users/shrutirao/airflow/database/my_sqlite.db r/w
+sqlite> .tables
+
+Then add the sqlite db on the UI Admin->Connections 
+Create a new onne using +
+Connection id is my_sqlite_conn
+Connection Type is sqlite
+Host is /Users/shrutirao/airflow/database/my_sqlite.db
+
+
+For file sensor : fs_default to change instead of local system
+
+
+Postgres:
+# Start the postgresql
+sudo service postgresql restart
+
+# Start the mySQL
+sudo service mysql restart
+
+# start the web server, default port is 8080
+airflow webserver -p 8080
+
+# start the scheduler
+airflow scheduler
+
+#connect to MySQL via command prompt
+mysql -u root -p
+Show databases;
+exit;
+
+#connect to PostgreSQL via command prompt
+sudo -i -u postgres
+psql
+\l+
+exit
+exit
+
+#Install the Required Packages for Connections
+pip install apache-airflow-providers-postgres
+pip install apache-airflow-providers-mysql
